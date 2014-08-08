@@ -14,6 +14,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on contributing content.
 
 ## License
 
-Content Copyright (c) 2014 Software Niagara and respective authors. All rights reserved.
+Content Copyright (c) 2014 Software Niagara and respective authors. All rights reserved. See [LICENSE](LICENSE).
 
 
