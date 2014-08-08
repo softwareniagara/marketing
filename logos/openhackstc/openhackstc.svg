@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="939px" height="418px" viewBox="0 0 939 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Logo" sketch:type="MSLayerGroup" transform="translate(-4.000000, 0.000000)">
+            <text id="Text" sketch:type="MSTextLayer" font-family="Fira Sans" font-size="144" font-weight="bold">
+                <tspan x="0" y="415" fill="#575757">OPENHACK</tspan>
+                <tspan x="707.616" y="415" fill="#00AAC8">STC</tspan>
+            </text>
+            <g id="Symbol" transform="translate(329.000000, 0.000000)" fill="#17AAC8" sketch:type="MSShapeGroup">
+                <path d="M233.308422,0 L53.840649,0 C24.1046217,0 0,24.1052556 0,53.840649 L0,233.308422 C0,263.042548 24.1046217,287.149071 53.840649,287.149071 L233.307155,287.149071 C263.042548,287.149071 287.147804,263.041914 287.147804,233.308422 L287.149071,53.840649 C287.149071,24.1046217 263.042548,0 233.308422,0 L233.308422,0 Z M246.026626,233.221581 C246.026626,240.293166 240.291898,246.026626 233.220313,246.026626 L53.9274908,246.026626 C46.8546381,246.026626 41.1199098,240.293166 41.1199098,233.221581 L41.1199098,53.9281247 C41.1199098,46.855272 46.8546381,41.1218114 53.9274908,41.1218114 L233.220313,41.1218114 C240.291898,41.1218114 246.026626,46.855272 246.026626,53.9281247 L246.026626,233.221581 L246.026626,233.221581 Z" id="Shape"></path>
+                <path d="M180.48452,73.5302842 L180.48452,126.357356 L106.84711,126.357356 L106.84711,73.5302842 L71.6286389,73.5302842 L71.6286389,214.404167 L106.84711,214.404167 L106.84711,161.575193 L180.48452,161.575193 L180.48452,214.404167 L215.702357,214.404167 L215.702357,73.5302842 L180.48452,73.5302842 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
