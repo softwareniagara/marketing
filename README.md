@@ -8,6 +8,10 @@ This is the official repository for Software Niagara marketing materials. It inc
 * Tshirt Designs
 * And more
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on contributing content.
+
 ## License
 
 Content Copyright (c) 2014 Software Niagara and respective authors. All rights reserved.
